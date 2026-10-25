@@ -1,0 +1,13 @@
+Project Type: Excel-based Data Analytics Dashboard
+
+Required Software:
+- Microsoft Excel 2016 or later, or a compatible spreadsheet application.
+
+Required Files:
+- Simple_Profit_Analysis.xlsx
+
+Optional:
+- dashboard_screenshot.png for project preview.
+
+External Python packages: Not required.
+Internet connection: Not required to open the downloaded workbook.
